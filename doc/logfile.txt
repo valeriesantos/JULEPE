@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-oracle/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.8.2.jar:/home/valerie/Escritorio/DAM/Programacion/78bba85edb6dbb89fb59:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-service.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/home/valerie/Escritorio/DAM/Programacion/Julepe
+-d
+/home/valerie/Escritorio/DAM/Programacion/Julepe/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/home/valerie/Escritorio/DAM/Programacion/Julepe/Carta.java
+<---- end of javadoc command ---->
+Loading source file /home/valerie/Escritorio/DAM/Programacion/Julepe/Carta.java...
+/home/valerie/Escritorio/DAM/Programacion/Julepe/Carta.java:99: error: class, interface, or enum expected
+}
+^
+1 error

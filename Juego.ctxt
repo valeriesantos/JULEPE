@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=numeroJugadores\ jugadorReal
+comment0.target=Juego(int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Juego\n
+comment1.params=
+comment1.target=void\ repartirCartas()
+comment2.params=nombreJugador
+comment2.target=void\ verCartasJugador(java.lang.String)
+numComments=3

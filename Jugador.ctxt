@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=namePlayer
+comment0.target=Jugador(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Jugador\n
+comment1.params=cartaRecibida
+comment1.target=void\ recibirCarta(Carta)
+comment1.text=\n\ Metodo\ que\ hace\ que\ el\ jugador\ reciba\ una\ carta.\n
+comment2.params=
+comment2.target=void\ verCartasJugador()
+comment2.text=\n\ Metodo\ que\ muestra\ las\ cartas\ del\ jugador\ por\ pantalla\ \ \ \ \ \n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=nombreCarta
+comment4.target=Carta\ tirarCarta(java.lang.String)
+comment4.text=\n\ Metodo\ que\ devuelve\ la\ carta\ especificada\ como\ parametro\ si\n\ el\ jugador\ dispone\ de\ ella\ y\ simula\ que\ se\ lanza\ a\ la\ mesa.\n
+comment5.params=
+comment5.target=Carta\ tirarCartaAleatoria()
+comment5.text=\n\ Metodo\ que\ tira\ carta\ aleatoria\n
+numComments=6

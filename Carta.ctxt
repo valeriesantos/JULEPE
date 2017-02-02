@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=valorCarta\ paloCarta
+comment0.target=Carta(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Carta\n
+comment1.params=
+comment1.target=int\ getValorCarta()
+comment2.params=
+comment2.target=int\ getPaloCarta()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getPosicionEnEscala()
+comment5.params=cartaAComparar\ paloQuePinta
+comment5.target=boolean\ ganaA(Carta,\ int)
+numComments=6
